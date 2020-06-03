@@ -1,0 +1,1 @@
+<li><a href="teachers.php"><?php echo lang('Teachers')?></a></li>
